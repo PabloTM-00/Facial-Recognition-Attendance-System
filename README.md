@@ -28,7 +28,6 @@ This project is a real-time face recognition attendance system built using Pytho
    git clone https://github.com/PabloTM-00/Facial-Recognition-Attendance-System.git
    cd Facial-Recognition-Attendance-System
   
-
 2. **(Optional but recommended) Create and activate a virtual environment:**
 
    * **Windows:**
